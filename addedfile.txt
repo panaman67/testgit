@@ -1,1 +1,3 @@
 Hi GitHub! This is my first added file from command line!
+
+this is an edit to make sure i know how to push edits to remote branch correctly
